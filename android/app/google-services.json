@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "670280909485",
+    "firebase_url": "https://smart-fridge-fd12e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-fridge-fd12e",
+    "storage_bucket": "smart-fridge-fd12e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670280909485:android:160a60b6c095bd4f277c24",
+        "android_client_info": {
+          "package_name": "com.gooddel.smartfridge2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjmD3bV1UyUNycrFBI8FIR_Q9F4g16GCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
